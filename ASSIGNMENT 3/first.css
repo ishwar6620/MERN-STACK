@@ -1,0 +1,45 @@
+body {
+    height: 400px;
+    width: 400px;
+    margin-left: 33.33%;
+    padding-top: 100px;
+    /* justify-content: center; */
+    /* line-height: 30px; */
+    /* border-style: solid; */
+    /* border-width: 0.1px; */
+    /* border-radius: 5px; */
+    /* display: block; */
+    /* border-color: rgb(69, 78, 78); */
+    /* box-shadow: 3px 5px 20px rgb(80, 78, 78); */
+}
+
+.container {
+    height: 500px;
+    width: 100%;
+    background: sticky;
+    /* justify-content: center; */
+}
+
+.login {
+    margin-top: 50px;
+}
+
+.login,
+.signUp {
+    height: 15%;
+    width: 100%;
+    text-align: center;
+    line-height: 70px;
+    box-shadow: 5px 5px 10px rgb(184, 181, 181);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: rgb(231, 85, 85);
+}
+
+.container {}
