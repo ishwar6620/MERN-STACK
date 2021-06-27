@@ -1,0 +1,23 @@
+.container {
+    height: 300px;
+    width: 400px;
+    margin-left: 33.33%;
+    margin-top: 50px;
+    background-color: rgb(236, 228, 228);
+    /* text-align: center; */
+    border-radius: 3px;
+    box-shadow: 5px 5px 10px rgb(184, 181, 181);
+}
+
+.cont1 {
+    padding: 80px;
+}
+
+button {
+    /* align-items: right; */
+    float: right;
+}
+
+input {
+    margin-bottom: 10px;
+}
