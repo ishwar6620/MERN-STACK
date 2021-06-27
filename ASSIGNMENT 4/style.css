@@ -1,0 +1,83 @@
+body {
+    background-image: linear-gradient(rgb(90, 152, 245), rgb(77, 155, 142));
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    display: block;
+}
+
+.navbar {
+    display: inline-block;
+
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+    padding: 18px 53px;
+}
+
+.navbar li a:hover,
+.navbar li a:active {
+    text-decoration: underline;
+    color: #f52e2e;
+}
+
+.navbar {
+    display: inline-block;
+    margin: 30px 118px;
+    padding: 18px;
+    font-size: 42px;
+    width: 75%;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 5px;
+
+}
+
+.navbar li {
+    color: white;
+    display: inline-block;
+    font-size: 25px;
+}
+
+.container {
+    text-align: center;
+    margin: 4px 27px;
+    width: 95%;
+    padding: 0px;
+    display: inline-block;
+    border: 3px solid white;
+    border-radius: 5px;
+}
+
+.image {
+    display: inline-block;
+    border: 3px solid white;
+    border-radius: 5px;
+    text-align: center;
+    margin: 30px;
+    width: 300px;
+}
+
+.para {
+    width: 300px;
+    height: 150px;
+    text-align: left;
+    padding: 1px;
+    margin: 2px;
+    color: white;
+}
+
+.btn {
+    display: inline;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background-color: rgb(194, 196, 199);
+}
